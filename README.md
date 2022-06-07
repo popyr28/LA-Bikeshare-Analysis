@@ -3,9 +3,10 @@ The bike-share Trip Analysis is a project of the mini course Data Analytics by R
 
 1) Goals that will be reached: Daily user or Walk-up user will be Membership
 2) Analytical Question: How Walk-up user and member use bike share differently?
-        sub question: a) Busy hours? Busy Day in a week? Busy Month?
-                      b) Growth number of bikeshare user from year to year?
-                      c) Top station to start trip and end trip?
-                      d) Correlation between passholder_type and trip_route_category & bike_type
-                      e) Correlation between day in a week with passholder_type and trip_route_category
-3) Recommendation will be in the last.
+### sub question: 
+        a) Busy hours? Busy Day in a week? Busy Month?
+        b) Growth number of bikeshare user from year to year?
+        c) Top station to start trip and end trip?
+        d) Correlation between passholder_type and trip_route_category & bike_type
+        e) Correlation between day in a week with passholder_type and trip_route_category
+3) Recommendation.
