@@ -1,0 +1,2 @@
+# LA-Bikeshare-Analysis
+The bike-share Trip Analysis is a project of the mini course Data Analytics by RevoU. The case study requires analytical new three insight from the dataset. The original dataset extract from BigQuery which is Austin Bike-share Trip. Here, I used Los Angeles Bike-share Trip data that retrieve from Kaggle. I utilized Python and Tableau in this case. Tableau used to make dashboard visualization of the insights.
